@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b53d8ca5.css",
+    "main.js": "/static/js/main.887e3970.js",
+    "static/media/profile-pic.jpeg": "/static/media/profile-pic.c0668f655ebfaea801cb.jpeg",
+    "static/media/newsMonkey.jpeg": "/static/media/newsMonkey.a63ea84ead85f46062aa.jpeg",
+    "static/media/instagramClone.jpeg": "/static/media/instagramClone.f790d84a0adb300c45f3.jpeg",
+    "static/media/iNotebook.jpeg": "/static/media/iNotebook.1cae6a19a291f0ddb87e.jpeg",
+    "static/media/TaskManager.png": "/static/media/TaskManager.8415b9c55ab326647e5d.png",
+    "index.html": "/index.html",
+    "main.b53d8ca5.css.map": "/static/css/main.b53d8ca5.css.map",
+    "main.887e3970.js.map": "/static/js/main.887e3970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53d8ca5.css",
+    "static/js/main.887e3970.js"
+  ]
+}
