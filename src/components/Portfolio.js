@@ -62,7 +62,7 @@ function Portfolio() {
                     src={newsMonkey}
                     alt="news platform"
                   />
-                  <a href="#modal-01" className="overlay">
+                  <a href="https://github.com/DevVarma19/NewsMonkey-ReactApp" target="_blank" rel="noreferrer"  className="overlay">
                     <div className="folio-item-table">
                       <div className="folio-item-cell">
                         <h3 className="folio-title">NewsMonkey </h3>
@@ -81,7 +81,7 @@ function Portfolio() {
                     src={taskManager}
                     alt="taskManager platform"
                   />
-                  <a href="#modal-01" className="overlay">
+                  <a href="https://github.com/DevVarma19/Task-Manager" target="_blank" rel="noreferrer"  className="overlay">
                     <div className="folio-item-table">
                       <div className="folio-item-cell">
                         <h3 className="folio-title">Task Manager API</h3>
