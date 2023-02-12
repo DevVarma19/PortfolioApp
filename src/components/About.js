@@ -1,5 +1,6 @@
 import React from "react";
 import profilePic from "./img/profile-pic.jpeg";
+import { resumeURL } from "../var";
 
 function About(props) {
   return (
@@ -108,7 +109,7 @@ function About(props) {
             >
               Contact Me
             </a>
-            <a href="#" title="Download CV" className="button button-primary">
+            <a href={resumeURL} title="Download CV" className="button button-primary">
               Download CV
             </a>
           </div>
