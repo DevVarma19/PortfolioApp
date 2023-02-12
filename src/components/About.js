@@ -109,7 +109,7 @@ function About(props) {
             >
               Contact Me
             </a>
-            <a href={resumeURL} title="Download CV" className="button button-primary">
+            <a href={resumeURL} target="_blank" rel="noreferrer" title="Download CV" className="button button-primary">
               Download CV
             </a>
           </div>
