@@ -1,8 +1,6 @@
-import React, { useState } from "react";
+import React from "react";
 
 function NavBar() {
-
-  const [logoColor, setlogoColor] = useState("black");
 
   const scrollToSection = () => {
     window.scrollTo({
@@ -21,7 +19,7 @@ function NavBar() {
                 onClick={() => scrollToSection()}
                 style={{
                   fontFamily: "italic-font",
-                  color: logoColor,
+                  color: "black",
                   cursor: "pointer",
                 }}
               >

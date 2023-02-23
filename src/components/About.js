@@ -14,7 +14,7 @@ function About(props) {
             <div className="intro-info">
               <img
                 src={profilePic}
-                alt="Profile Picture"
+                alt="Profile"
                 style={{
                   objectFit: 'contain',
                 }}

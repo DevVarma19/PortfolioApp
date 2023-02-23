@@ -1,9 +1,14 @@
 import React from "react";
+import GitHubCalendar from "react-github-calendar";
 
 function Contact() {
   return (
     <div>
       <section id="contact">
+      <div className="section-intro">
+      <h5>Days I Code</h5>
+      <GitHubCalendar username="devvarma19" color={"#fed136"} blockSize={20} blockRadius={4} blockMargin={6}/>
+      </div>
         <div className="row section-intro">
           <div className="col-twelve">
             <h5>Contact</h5>
