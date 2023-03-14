@@ -3,6 +3,7 @@ import iNotebook from "./img/iNotebook.jpeg";
 import instagramClone from "./img/instagramClone.jpeg";
 import newsMonkey from "./img/newsMonkey.jpeg";
 import taskManager from "./img/TaskManager.png";
+import devTube from "./img/DevTube.png";
 
 function Portfolio() {
   return (
@@ -75,7 +76,7 @@ function Portfolio() {
                 </div>
               </div>
 
-              <div className="bgrid folio-item">
+              {/* <div className="bgrid folio-item">
                 <div className="item-wrap">
                   <img
                     src={taskManager}
@@ -85,6 +86,24 @@ function Portfolio() {
                     <div className="folio-item-table">
                       <div className="folio-item-cell">
                         <h3 className="folio-title">Task Manager API</h3>
+                        <span className="folio-types">
+                          Backend (Node.js)
+                        </span>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div> */}
+              <div className="bgrid folio-item">
+                <div className="item-wrap">
+                  <img
+                    src={devTube}
+                    alt="devTube platform"
+                  />
+                  <a href="https://github.com/DevVarma19/DevTube-Backend" target="_blank" rel="noreferrer"  className="overlay">
+                    <div className="folio-item-table">
+                      <div className="folio-item-cell">
+                        <h3 className="folio-title">DevTube API</h3>
                         <span className="folio-types">
                           Backend (Node.js)
                         </span>
