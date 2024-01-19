@@ -17,8 +17,32 @@ function Resume() {
                 </div>
 
                 <div className="timeline-header">
+                  <h3>Full Stack Developer</h3>
+                  <p>March 2023 - Present</p>
+                </div>
+
+                <div className="timeline-content">
+                  <h4>Tikaj</h4>
+                  <p>
+                    Developed an EASM portal for organizing cyber threat
+                    intelligence data, integrating various tools. Additionally,
+                    contributed to internal reusable component library using
+                    Vue.js to enhance web application development efficiency and
+                    development of phishgrid.com's v2, a prominent phishing
+                    simulation platform. I worked with technologies such as
+                    Node.js, React.js, Vue.js, Python, MongoDB, SQL, Redis, and
+                    Git CI/CD, demonstrating a comprehensive skill set.
+                  </p>
+                </div>
+              </div>
+              <div className="timeline-block">
+                <div className="timeline-ico">
+                  <i className="fa fa-briefcase"></i>
+                </div>
+
+                <div className="timeline-header">
                   <h3>IT Trainee</h3>
-                  <p>June 2022 - Present</p>
+                  <p>June 2022 - Jan 2023</p>
                 </div>
 
                 <div className="timeline-content">

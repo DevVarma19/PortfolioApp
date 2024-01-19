@@ -44,7 +44,7 @@ function About(props) {
               <li>
                 <strong>Job:</strong>
                 <span>
-                  IT Trainee <small>@ FIS</small>
+                  Full Stack Developer
                 </span>
               </li>
               <li>
@@ -73,6 +73,12 @@ function About(props) {
                 <strong>React JS</strong>
               </li>
               <li>
+                <div className="progress percent70">
+                  <span>60%</span>
+                </div>
+                <strong>Vue JS</strong>
+              </li>
+              <li>
                 <div className="progress percent75">
                   <span>75%</span>
                 </div>
@@ -80,15 +86,9 @@ function About(props) {
               </li>
               <li>
                 <div className="progress percent80">
-                  <span>80%</span>
-                </div>
-                <strong>Java</strong>
-              </li>
-              <li>
-                <div className="progress percent70">
                   <span>70%</span>
                 </div>
-                <strong>Laravel</strong>
+                <strong>Python</strong>
               </li>
               <li>
                 <div className="progress percent75">
